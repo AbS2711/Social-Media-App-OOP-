@@ -1,0 +1,26 @@
+# --- Compiled Binaries & Object Files ---
+*.exe
+*.o
+*.obj
+*.out
+
+# --- IDE Specific (Visual Studio / VS Code) ---
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+
+# --- Temporary & Build Files ---
+*.log
+*.tmp
+*.bak
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db 
